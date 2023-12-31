@@ -28,11 +28,11 @@ const siteProps = {
   title: "Flutter Developer & Web Developer",
   email: "govind803556@gmail.com",
   gitHub: "Robertgovind",
-  instagram: "Robert Govind",
-  linkedIn: "Govind Kr Yadav",
+  instagram: "govindyadav803556",
+  linkedIn: "govind-kr-yadav-715b9426a",
   medium: "",
-  twitter: "Robert Govind",
-  youTube: "Robert's Knowledge Hub",
+  twitter: "GovindRobert",
+  youTube: "@robertsknowledgehub51",
 };
 
 const primaryColor = "#4E567E";
