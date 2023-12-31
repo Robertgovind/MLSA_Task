@@ -16,26 +16,26 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/painting.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "painting with different colours";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "A tech enthusiast from Nepal who loves to learn about AI and Android App Development in the tech world.Currently, I'm pursuing Bachelor of Electronics Communication and Information Engineering at I.O.E Paschimanchal Campus which is located in Pokhara, Nepal. I'm exploring different fields of the tech industry and for some time I am learning Flutter,DSA and few more.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
+  "Android app development",
+  "Frontend developer",
+  "DSA",
+  "Python",
+  "Git and Github",
   "Graphic design",
 ];
 
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "A tech enthusiast from Nepal who loves to learn about AI and Android App Development in the tech world.Currently, I'm pursuing Bachelor of Electronics Communication and Information Engineering at I.O.E Paschimanchal Campus which is located in Pokhara, Nepal. I'm exploring different fields of the tech industry and for some time I am learning Flutter,DSA and few more.";
 
 const About = () => {
   return (
